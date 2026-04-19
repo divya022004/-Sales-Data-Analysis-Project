@@ -1,0 +1,23 @@
+===== SALES DATA ANALYSIS REPORT =====
+
+***BASIC INFORMATION***Total Transactions : 23
+Unique Customers : 23
+
+***REVENUE DETAILS***
+Total Revenue :3358.0499999999993
+Average Order Value : 146.00217391304344
+
+***PRODUCT INSIGHTS***
+Top Category :Electronics
+Most Sold Product :Dress
+
+***PAYMENT INSIGTHS***
+Most Used Method : Credit Card
+
+***CUSTOMER DETAILS***
+Average Age : 36.69565217391305
+Repeat Customers :0
+
+***DATE RANGE***
+From :2024-01-17 00:00:00
+To : 2024-02-11 00:00:00
